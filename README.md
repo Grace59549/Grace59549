@@ -3,6 +3,7 @@
 👋 Hi, I’m Grace  
 🎓 Aspiring data scientist | Learning R, Python & Machine Learning  
 📚 Part of the SAIL Innovation Programme  
+📍 Based in Lagos, Nigeria 
 📊 Passionate about data visualization & analytics  
 🛠️ Building projects to apply my skills and grow my portfolio  
 🌱 Always learning, exploring open-source, and collaborating with others  
@@ -15,7 +16,7 @@
 - Learning machine learning techniques and data wrangling
 - Documenting my journey through hands-on projects
 
----
+
 
 ### 🎯 Interests
 **Data Visualization (Data Viz):**  
@@ -29,9 +30,9 @@ I'm learning how to explore and analyze data to answer real-world questions, mak
 ### 🛠️ Tools & Technologies  
 - Languages: `R`, `Python`, `SQL`  
 - Libraries: `ggplot2`, `tidyverse`, `pandas`, `matplotlib`, `scikit-learn`  
-- Tools: `RStudio`, `Jupyter`, `Git`, `GitHub`
+- Tools: `Excel`, `Power BI`, `RStudio`, `Jupyter`, `Git`, `GitHub`
 
----
+
 
 Thanks for visiting my profile! 😊
 
